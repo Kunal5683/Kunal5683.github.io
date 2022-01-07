@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emailer-1</title>
+    <style>
+        .msg{
+            background: white;
+
+        }
+       h4{
+           color: tomato;
+           text-decoration: underline;
+           text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+       }
+       h1{
+        color: rgba(0,0,0,0.6);
+text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                 0px -5px 35px rgba(255,255,255,0.3);
+                }
+       span{
+           color: violet;
+           text-decoration: underline;
+       }     
+       
+       .lst{
+           font-weight: 700;
+           
+       }
+
+    </style>
+</head>
+<body bgcolor="skyblue">
+    <table class="msg" width=70% align="center">
+        <tr>
+            <td>
+                <table align="center">
+                    <tr>
+                        <td>
+                            <h1>Canva community design inspirations</h1>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table align="center">
+                    <tr>
+                        <td>
+                            <p>We loved seeing all of your resolution designs in our last Canva Design Challenge. <span>Check out some of our favourites:</span></p
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table align="center" cellpadding="30px"> 
+                    <tr>
+                        <td>
+                        <p><img src="11.gif" alt=""></p>
+                        <p><h4>DESIGNED BY ERIKA</h4></p>
+
+                    </td>
+                    <td>
+                        <p><img src="2.png" alt=""></p>
+                        <p><h4>DESIGNED BY ANJ</h4></p>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <p><img src="3.png" alt=""></p>
+                        <p><h4>DESIGNED BY FATHIMA</h4></p>
+
+                    </td>
+                    <td>
+                        <p><img src="4.png" alt=""></p>
+                        <p><h4>DESIGNED BY ARI</h4></p>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <p><img src="6.gif" alt=""></p>
+                        <p><h4>DESIGNED BY SHEILA</h4></p>
+
+                    </td>
+                    <td>
+                        <p><img src="5.png" alt=""></p>
+                        <p><h4>DESIGNED BY LINA</h4></p>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <p><img src="8.png" alt=""></p>
+                        <p><h4>DESIGNED BY ŞUHEDÂ</h4></p>
+
+                    </td>
+                    <td>
+                        <p><img src="9.png" alt=""></p>
+                        <p><h4>DESIGNED BY SWEETA</h4></p>
+                    </td>
+                    </tr>
+                    <table width="90%">
+                        <tr>
+                            <td>
+                                <table cellpadding="55px">
+                                    <tr>
+                                        <td>
+                                            <p class="lst">Feeling inspired? Next time you’ve got a minute to spare - waiting for a coffee, catching a bus, or just taking a break - open up Canva and join our magic design challenge.</p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        
+                     </tr>
+                </table>
+            </td>
+        </tr>
+        
+    </table>
